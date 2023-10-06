@@ -7,7 +7,7 @@
 ## ScreenShot
 
 <div align = "center">
-<img src="assets/Screenshot_1695573336588.png" width="350" />
+<img src="assets/Screenshot_1695d573336588.png" width="350" />
 <img src="assets/Screenshot_169557633594.png" width="350" />
 
 </div>
